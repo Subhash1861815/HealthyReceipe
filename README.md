@@ -32,5 +32,5 @@ This project was inspired by the everyday challenges faced by students and busy 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/healthyrecipe-app.git
-   cd healthyrecipe-app
+   git clone https://github.com/Subhash1861815/HealthyReceipe.git
+   cd HealthyReceipe
