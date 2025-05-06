@@ -38,17 +38,11 @@ This project was inspired by the everyday challenges faced by students and busy 
 2. **Create a Virtual Environment**
    ```bash
    python3 -m venv venv
-
-Activate the virtual environment:
-
-On macOS/Linux:
+   Activate the virtual environment:
+   On macOS/Linux:
    ```bash
    source venv/bin/activate
-   
-
-On Windows:
-   ```bash
-   venv\Scripts\activate
+   venv\Scripts\activate #windows
 
 3. **Install dependencies**
    ```bash
