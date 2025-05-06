@@ -34,3 +34,26 @@ This project was inspired by the everyday challenges faced by students and busy 
    ```bash
    git clone https://github.com/Subhash1861815/HealthyReceipe.git
    cd HealthyReceipe
+
+2. **Create a Virtual Environment**
+   ```bash
+   python3 -m venv venv
+
+Activate the virtual environment:
+
+On macOS/Linux:
+   ```bash
+   source venv/bin/activate
+   
+
+On Windows:
+   ```bash
+   venv\Scripts\activate
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the App**
+   ```bash
+   streamlit run app.py
