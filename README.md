@@ -53,9 +53,7 @@ This project was inspired by the everyday challenges faced by students and busy 
 
 Create a `.env` file in the root directory and add your Gemini API key:
 
-```ini
 GEMINI_API_KEY=your_google_gemini_api_key_here
-
 
 
 ## 📜 License
