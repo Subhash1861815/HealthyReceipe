@@ -48,3 +48,20 @@ This project was inspired by the everyday challenges faced by students and busy 
 4. **Run the App**
    ```bash
    streamlit run app.py
+
+## 🔐 Set Up Environment Variables (API Key)
+
+Create a `.env` file in the root directory and add your Gemini API key:
+
+```ini
+GEMINI_API_KEY=your_google_gemini_api_key_here
+
+
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software, provided that the original copyright and license
+notice are included in all copies or substantial portions of the software.
+
